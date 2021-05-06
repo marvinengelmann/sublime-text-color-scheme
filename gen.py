@@ -11,16 +11,16 @@ data = {
     },
     "rules": [
         {
-            "name": "crimson",
-            "foreground": "#dc143c",
+            "name": "Pale Green",
+            "foreground": "#98fb98",
             "scope": ", ".join([
                 "constant.numeric",
                 "constant.other.color"
             ])
         },
         {
-            "name": "magenta",
-            "foreground": "#ff00ff",
+            "name": "Lime",
+            "foreground": "#00ff00",
             "scope": ", ".join([
                 "keyword",
                 "punctuation.definition.numeric",
@@ -35,8 +35,8 @@ data = {
             ])
         },
         {
-            "name": "dark violet",
-            "foreground": "#8a2be2",
+            "name": "Light Green",
+            "foreground": "#90ee90",
             "scope": ", ".join([
                 "constant.language",
                 "support.type",
@@ -55,8 +55,8 @@ data = {
             ])
         },
         {
-            "name": "dodger blue",
-            "foreground": "#1e90ff",
+            "name": "Green Yellow",
+            "foreground": "#adff2f",
             "scope": ", ".join([
                 "storage.type",
                 "storage.modifier",
@@ -66,7 +66,7 @@ data = {
             ])
         },
         {
-            "name": "medium spring green",
+            "name": "Medium Spring Green",
             "foreground": "#00fa9a",
             "scope": ", ".join([
                 "variable.function",
@@ -78,22 +78,22 @@ data = {
             ])
         },
         {
-            "name": "cyan",
-            "foreground": "#00FFFF",
+            "name": "Aquamarine",
+            "foreground": "#7fffd4",
             "scope": ", ".join([
                 "string"
             ])
         },
         {
-            "name": "dim gray",
-            "foreground": "#696969",
+            "name": "Dark Slate Gray",
+            "foreground": "#2f4f4f",
             "scope": ", ".join([
                 "comment",
                 "punctuation.definition.comment"
             ])
         },
         {
-            "name": "white",
+            "name": "White",
             "foreground": "#ffffff",
             "scope": ", ".join([
                 "variable",
@@ -102,7 +102,7 @@ data = {
             ])
         },
         {
-            "name": "italic",
+            "name": "Italic",
             "scope": ", ".join([
                 "constant.language",
                 "keyword",
@@ -118,7 +118,7 @@ data = {
             "font_style": "italic"
         },
         {
-            "name": "none",
+            "name": "None",
             "scope": ", ".join([
                 "keyword.operator",
                 "keyword.other.unit",

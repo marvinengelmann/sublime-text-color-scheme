@@ -9,52 +9,52 @@
     },
     "rules": [
         {
-            "name": "crimson",
-            "foreground": "#dc143c",
+            "name": "Pale Green",
+            "foreground": "#98fb98",
             "scope": "constant.numeric, constant.other.color"
         },
         {
-            "name": "magenta",
-            "foreground": "#ff00ff",
+            "name": "Lime",
+            "foreground": "#00ff00",
             "scope": "keyword, punctuation.definition.numeric, punctuation.separator.combinator, entity.other.pseudo-class, entity.other.pseudo-element, storage.type.function.arrow, storage.type.numeric, storage.modifier.reference, constant.other.placeholder, constant.character.escape"
         },
         {
-            "name": "dark violet",
-            "foreground": "#8a2be2",
+            "name": "Light Green",
+            "foreground": "#90ee90",
             "scope": "constant.language, support.type, support.class, support.other.namespace, entity.name.class, entity.other.inherited-class, entity.name.interface, entity.name.trait, entity.name.namespace, entity.name.struct, entity.name.enum, entity.name.type, variable.type, storage.type.source"
         },
         {
-            "name": "dodger blue",
-            "foreground": "#1e90ff",
+            "name": "Green Yellow",
+            "foreground": "#adff2f",
             "scope": "storage.type, storage.modifier, variable.language, entity.name.tag, support.type.primitive"
         },
         {
-            "name": "medium spring green",
+            "name": "Medium Spring Green",
             "foreground": "#00fa9a",
             "scope": "variable.function, variable.annotation, entity.name.function, entity.other.attribute-name, support.function, support.macro"
         },
         {
-            "name": "cyan",
-            "foreground": "#00FFFF",
+            "name": "Aquamarine",
+            "foreground": "#7fffd4",
             "scope": "string"
         },
         {
-            "name": "dim gray",
-            "foreground": "#696969",
+            "name": "Dark Slate Gray",
+            "foreground": "#2f4f4f",
             "scope": "comment, punctuation.definition.comment"
         },
         {
-            "name": "white",
+            "name": "White",
             "foreground": "#ffffff",
             "scope": "variable, punctuation, keyword.operator.type.annotation"
         },
         {
-            "name": "italic",
+            "name": "Italic",
             "scope": "constant.language, keyword, keyword.operator.word, storage.type, storage.modifier, variable.language, entity.name.tag, entity.other.pseudo-class, entity.other.pseudo-element, support.type.primitive",
             "font_style": "italic"
         },
         {
-            "name": "none",
+            "name": "None",
             "scope": "keyword.operator, keyword.other.unit, keyword.declaration.doctype, storage.type.function.arrow, storage.type.source, storage.modifier.reference, entity.name.tag.html, entity.name.tag., constant.language.doctype",
             "font_style": ""
         }
